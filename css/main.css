@@ -1,0 +1,124 @@
+#contenedor-general{
+  margin-top: 70px;
+}
+
+.estilo-titulo{
+
+  font-size: 20px;
+  margin-left: 285px;
+
+}
+
+.figure1{
+  margin-left: 285px;
+  margin-right: 0;
+
+}
+.figure2{
+     margin-left: -30px;
+    margin-right: 0px;
+}
+.figure3{
+    margin-right: 0px;
+    margin-left: -30px;
+}
+.figure4{
+  margin-left: 285px;
+  margin-right: 0px;
+}
+.figure5{
+    margin-right: 0px;
+    margin-left: -30px;
+}
+.figure6{
+  margin-right: 0px;
+  margin-left: -30px;
+}
+
+.hr-estilo{
+  width: 5%;
+  height: 3px;
+  background-color: black;
+  margin-left: 285px;
+}
+
+.imagen1{
+filter: brightness(0.7);
+  -webkit-filter: brightness(0.7);
+  -moz-filter: brightness(0.7);
+  -o-filter: brightness(0.7);
+  -ms-filter: brightness(0.7);
+}
+
+.imagen2{
+filter: brightness(0.7);
+  -webkit-filter: brightness(0.7);
+  -moz-filter: brightness(0.7);
+  -o-filter: brightness(0.7);
+  -ms-filter: brightness(0.7);
+}
+.imagen3{
+filter: brightness(0.7);
+  -webkit-filter: brightness(0.7);
+  -moz-filter: brightness(0.7);
+  -o-filter: brightness(0.7);
+  -ms-filter: brightness(0.7);
+}
+.imagen4{
+filter: brightness(0.7);
+  -webkit-filter: brightness(0.7);
+  -moz-filter: brightness(0.7);
+  -o-filter: brightness(0.7);
+  -ms-filter: brightness(0.7);
+}
+.imagen5{
+filter: brightness(0.7);
+  -webkit-filter: brightness(0.7);
+  -moz-filter: brightness(0.7);
+  -o-filter: brightness(0.7);
+  -ms-filter: brightness(0.7);
+}
+.imagen6{
+filter: brightness(0.7);
+  -webkit-filter: brightness(0.7);
+  -moz-filter: brightness(0.7);
+  -o-filter: brightness(0.7);
+  -ms-filter: brightness(0.7);
+}
+
+.figCap1{
+  position: relative;
+  margin-left: 120px;
+    margin-top: 144px;
+  color: white;
+}
+.figCap2{
+  position: relative;
+  margin-left: 80px;
+  margin-top: 144px;
+  color: white;
+}
+.figCap3{
+  position: relative;
+  margin-left: 104px;
+  margin-top: 144px;
+  color: white;
+}
+.figCap4{
+  position: relative;
+  margin-left: 134px;
+  margin-top: 144px;
+  color: white;
+}
+.figCap5{
+  position: relative;
+  margin-left: 100px;
+  margin-top: 144px;
+  color: white;
+}
+.figCap6{
+  position: relative;
+  margin-left: 133px;
+  margin-top: 144px;
+  color: white;
+}
